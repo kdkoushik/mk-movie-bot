@@ -1,1 +1,1 @@
-gunicon app:app & python3 bot.py
+gunicron app:app & python3 bot.py
